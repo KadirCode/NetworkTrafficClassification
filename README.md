@@ -15,3 +15,6 @@ Evaluation: Use metrics (accuracy, precision, recall, F1-score) and a confusion 
 Tools and Libraries
 Programming: Python
 Libraries: Pandas, Scikit-Learn, Matplotlib, Seaborn
+
+
+IMPORTANT: Before running this project, go to data folder and follow the instructions in the READ_ME file there.
